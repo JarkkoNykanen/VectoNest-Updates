@@ -2,10 +2,10 @@
   "update": {
     "schemaVersion": 1,
     "product": "VectoNest",
-    "version": "1.2.16",
-    "packageUrl": "https://github.com/JarkkoNykanen/VectoNest-Updates/releases/download/v1.2.16/VectoNest-1.2.16.zip",
-    "sha256": "ECF18B9D3F857EA2C83435E1D37A5F3DB2CAC47F8A0F7DE9B8A734B149D25278",
-    "publishedUtc": "2026-11-09T17:21:01.1210227+00:00"
+    "version": "1.2.17",
+    "packageUrl": "https://github.com/JarkkoNykanen/VectoNest-Updates/releases/download/v1.2.17/VectoNest-1.2.17.zip",
+    "sha256": "787D1D2AFB0594596D973BE54C86A79F927834555D389F76282F3A138128B610",
+    "publishedUtc": "2026-11-13T04:58:10.3499344+00:00"
   },
-  "signature": "wHgLbK3zpejDEzwEyorAYCaRQV2PTv6dJqrBzKit7LNhXhxL/MQYCPFkRYGflip1wxcdl65ZjPZe5/mwWamtZA=="
+  "signature": "wUJ7gpUBDQowHNxB6zIrcBsJmjo9ggGKqdwkCZ10Om0GsZPOpbYaA/p\u002Bw\u002BRZ7Q09qpNE85V2/vmRB5MvXMClqA=="
 }
